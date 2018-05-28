@@ -386,6 +386,6 @@ let dom = (function () {
         generatePhotoPosts,
         removePhoto,
         editMyPhotoPost,
-        showElementsOnHeader
+        showElementsHeader
     }
 })();
