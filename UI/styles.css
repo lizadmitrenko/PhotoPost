@@ -143,6 +143,13 @@ ul .list-filter{
     font-size: 1.5em;
 
 }
+.bottons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
 .hashtags{
     background: white;
     font-weight: bold;
@@ -171,6 +178,12 @@ ul .list-filter{
     background: white;
     overflow: auto;
 }
+.likes{}
+.show-more{}
+.button-edit{}
+.button-like{}
+.button-delete{}
+.button-add-photo{}
 .photo-img{
     height: 100%;
     width: auto;
